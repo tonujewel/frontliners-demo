@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "973380276582",
+    "project_id": "frontliners-2fdd8",
+    "storage_bucket": "frontliners-2fdd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973380276582:android:88667e73ab3d7abc8178a7",
+        "android_client_info": {
+          "package_name": "com.tonujewel.frontliners"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973380276582-gf24qmls6ja5meec295u3d6ghcmsm87b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tonujewel.frontliners",
+            "certificate_hash": "a886e826056fe03def11ef3da378fda12f6b8dd8"
+          }
+        },
+        {
+          "client_id": "973380276582-2ijktgehmgjp5bfmtkj05fsep2p0tb97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW0gK4ms2MCBhsb4iIQGSBaTBHKzp7YcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973380276582-2ijktgehmgjp5bfmtkj05fsep2p0tb97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
